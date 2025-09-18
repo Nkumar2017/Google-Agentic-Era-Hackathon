@@ -1,6 +1,6 @@
 # Google-Agentic-Era-Hackathon
 
-student_04_9f53c4b78841@cloudshell:~ (qwiklabs-gcp-02-05da717078fa)$ cat hackathon-nitesh/README.md
+cat hackathon-nitesh/README.md
 # hackathon-nitesh
 
 A base ReAct agent built with Google's Agent Development Kit (ADK)
